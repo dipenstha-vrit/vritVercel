@@ -1,0 +1,47 @@
+.phone-picker-container {
+  position: relative;
+}
+
+.custom-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background-color: white;
+  border: 1px solid #ccc;
+  z-index: 10;
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.search-input {
+  width: 100%;
+  padding: 8px;
+  border-bottom: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.country-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.country-item {
+  padding: 10px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+}
+
+.country-item.selected {
+  background-color: #e6e6e6;
+}
+
+.country-item:hover {
+  background-color: #f1f1f1;
+}
+
+input.PhoneInputInput:focus-visible {
+  outline: none;
+}

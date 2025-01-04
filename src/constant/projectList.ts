@@ -1,0 +1,58 @@
+export const projectList = [
+  {
+    id: "1",
+    title: "A Digital Ecosystem",
+    service: "App Development",
+    img: "https://www.liquidplanner.com/wp-content/uploads/2019/04/HiRes-17.jpg",
+    desc: " Define your website's purpose. Defining the purpose of your website is a crucial first step in the website creation process.",
+  },
+  {
+    id: "2",
+    title: "A Digital Ecosystem",
+    service: "App Development",
+    img: "https://www.liquidplanner.com/wp-content/uploads/2019/04/HiRes-17.jpg",
+    desc: " Define your website's purpose. Defining the purpose of your website is a crucial first step in the website creation process.",
+  },
+  {
+    id: "3",
+    title: "A Digital Ecosystem",
+    service: "UI/UX",
+    img: "https://www.liquidplanner.com/wp-content/uploads/2019/04/HiRes-17.jpg",
+    desc: " Define your website's purpose. Defining the purpose of your website is a crucial first step in the website creation process.",
+  },
+  {
+    id: "4",
+    title: "A Digital Ecosystem",
+    service: "Block Chain",
+    img: "https://www.liquidplanner.com/wp-content/uploads/2019/04/HiRes-17.jpg",
+    desc: " Define your website's purpose. Defining the purpose of your website is a crucial first step in the website creation process.",
+  },
+  {
+    id: "5",
+    title: "A Digital Ecosystem",
+    service: "App Development",
+    img: "https://www.liquidplanner.com/wp-content/uploads/2019/04/HiRes-17.jpg",
+    desc: " Define your website's purpose. Defining the purpose of your website is a crucial first step in the website creation process.",
+  },
+  {
+    id: "6",
+    title: "A Digital Ecosystem",
+    service: "Cyber Security",
+    img: "https://www.liquidplanner.com/wp-content/uploads/2019/04/HiRes-17.jpg",
+    desc: " Define your website's purpose. Defining the purpose of your website is a crucial first step in the website creation process.",
+  },
+  {
+    id: "7",
+    title: "A Digital Ecosystem",
+    service: "App Development",
+    img: "https://www.liquidplanner.com/wp-content/uploads/2019/04/HiRes-17.jpg",
+    desc: " Define your website's purpose. Defining the purpose of your website is a crucial first step in the website creation process.",
+  },
+  {
+    id: "8",
+    title: "A Digital Ecosystem",
+    service: "Web Development",
+    img: "https://www.liquidplanner.com/wp-content/uploads/2019/04/HiRes-17.jpg",
+    desc: " Define your website's purpose. Defining the purpose of your website is a crucial first step in the website creation process.",
+  },
+];
